@@ -1,16 +1,11 @@
 <p align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/6d214413-c9d3-4eaf-bef5-3d6a9d93f3ea">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF0000&section=header">
 </p>
 
 ---
 
 <p align="center">
-████ SYSTEM STATUS ████
-</p>
-
-<p align="center">
-Developer • Systems • Web
+开发者 Developer • 系统 Systems • Web
 </p>
 
 ---
@@ -30,7 +25,3 @@ Developer • Systems • Web
 </p>
 
 ---
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF0000&section=footer&reversal=true">
-</p>
