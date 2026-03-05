@@ -2,8 +2,6 @@
   <img width="100%" alt="image" src="https://github.com/user-attachments/assets/6d214413-c9d3-4eaf-bef5-3d6a9d93f3ea" />
 </div>
 
-###
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FF0000&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF0000" />
 </div>
