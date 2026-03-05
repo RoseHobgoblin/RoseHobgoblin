@@ -19,5 +19,3 @@
 <img width="15">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40">
 </p>
-
----
